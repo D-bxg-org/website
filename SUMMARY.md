@@ -11,7 +11,7 @@
     * [typescript](javascript/javascript/typescript.md)
   * [node](javascript/node.md)
   * [react](javascript/react/README.md)
-    * [react-se](javascript/react/react-se/README.md)
+    * [react-basis](javascript/react/react-se/README.md)
       * [renderProps](javascript/react/react-se/renderprops.md)
     * [react-router](javascript/react/react-router.md)
     * [redux redux-react](javascript/react/redux-redux-react.md)
