@@ -25,6 +25,8 @@
     * [next](javascript/react/next/README.md)
       * [Untitled](javascript/react/next/untitled.md)
   * [vue](javascript/vue.md)
+  * [JavaScript库](javascript/javascript-ku/README.md)
+    * [PubSubJS](javascript/javascript-ku/pubsubjs.md)
 * [服务端](fu-wu-duan.md)
 * [XML](xml.md)
 * [开发工具](kai-fa-gong-ju.md)
