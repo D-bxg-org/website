@@ -12,9 +12,14 @@ yarn add prop-types
 <A name='aaaaaaaa'></A>
 
 class A extends component{
- const {name,age,sex}=this.props
  PropTypes{
   name:PropTypes.string
+ }
+ render(){
+  const {name,age,sex}=this.props
+  return(
+   <></>
+  )
  }
 }
 ```
