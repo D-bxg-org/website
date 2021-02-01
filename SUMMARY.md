@@ -45,6 +45,8 @@
   * [JavaScript库](javascript/javascript-ku/README.md)
     * [jQuery](javascript/javascript-ku/jquery.md)
     * [PubSubJS](javascript/javascript-ku/pubsubjs.md)
+    * [GASP](javascript/javascript-ku/gasp.md)
+    * [three](javascript/javascript-ku/three.md)
 * [服务端](fu-wu-duan.md)
 * [XML](xml.md)
 * [开发工具](kai-fa-gong-ju.md)
