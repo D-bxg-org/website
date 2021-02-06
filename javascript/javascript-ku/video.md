@@ -46,7 +46,7 @@ video.js有两种初始化方式，一种是在video的html标签之中，一种
 
 #### 1.2、使用js进行初始化 <a id="item-1-2"></a>
 
-```text
+```jsx
 <!-- vjs-big-play-centered可使大的播放按钮居住，vjs-fluid可使视频占满容器 -->
 <video id="myVideo" class="video-js vjs-big-play-centered vjs-fluid">
   <p class="vjs-no-js">
@@ -123,7 +123,7 @@ var player = videojs(document.getElementById('myVideo'), {
 
 > `currentTimeDisplay`,`timeDivider`,`durationDisplay`是相对于 `remainingTimeDisplay`的另一套组件，后者只显示当前播放时间，前者还显示总时间。若要显示成前者这种模式，即 '当前时间/总时间'，可以在初始化播放器选项中配置：
 
-```text
+```jsx
 var myPlayer = neplayer('my-video', {controlBar:{
     'currentTimeDisplay':true,
     'timeDivider':true,
@@ -138,7 +138,7 @@ var myPlayer = neplayer('my-video', {controlBar:{
 
 ### 3、video.js样式修改 <a id="item-3"></a>
 
-```text
+```css
 .video-js{ /* 给.video-js设置字体大小以统一各浏览器样式表现，因为video.js采用的是em单位 */
   font-size: 14px;
 }
@@ -214,7 +214,7 @@ var myPlayer = neplayer('my-video', {controlBar:{
 
 ### 4、动态切换视频 <a id="item-4"></a>
 
-```text
+```jsx
 <script>
   var data = {
     src: 'xxx.mp4',
@@ -239,7 +239,7 @@ var myPlayer = neplayer('my-video', {controlBar:{
 
 对于使用`<script>`标签形式的方式引入`video.js`，只需要在页面中引入你需要的语言包即可
 
-```text
+```markup
 <script src="//example.com/path/to/lang/es.js"></script>
 <script src="//example.com/path/to/lang/zh-CN.js"></script>
 <script src="//example.com/path/to/lang/zh-TW.js"></script>
@@ -258,7 +258,7 @@ var player = videojs('myVideo', {
 
 #### 5.2、vue开发 <a id="item-5-4"></a>
 
-```text
+```jsx
 import Video from 'video.js'
 /* 不能直接引入js，否则会报错：videojs is not defined 
 import 'video.js/dist/lang/zh-CN.js' */
@@ -274,7 +274,7 @@ Video.addLanguage('en', video_en);
 
 在iPhone设备上播放视频时\(微信浏览器上也会有这个问题\)会自动全屏，这里的全屏并不是常规的手机横屏那种全屏，而是类似于一个modal弹窗的全屏，解决办法就是在`video`标签中添加`playsinline="true"`属性
 
-```text
+```markup
 <video
     webkit-playsinline="true"
     playsinline="true"
