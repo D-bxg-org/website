@@ -7,6 +7,7 @@
   * [创建画布](css/chuang-jian-hua-bu.md)
 * [JavaScript](javascript/README.md)
   * [JavaScript](javascript/javascript/README.md)
+    * [JavaScript](javascript/javascript/javascript.md)
     * [ES6](javascript/javascript/es6.md)
     * [typescript](javascript/javascript/typescript.md)
   * [node](javascript/node.md)
