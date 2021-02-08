@@ -70,6 +70,7 @@
     * [jQuery](javascript/javascript-ku/jquery.md)
     * [PubSubJS](javascript/javascript-ku/pubsubjs.md)
     * [GASP](javascript/javascript-ku/gasp.md)
+    * [Pixi](javascript/javascript-ku/pixi.md)
     * [three](javascript/javascript-ku/three.md)
     * [scrollreveal](javascript/javascript-ku/scrollreveal.md)
     * [video](javascript/javascript-ku/video.md)
