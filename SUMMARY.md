@@ -27,6 +27,8 @@
         * [Cookie](javascript/javascript/javascript/liu-lan-qi-mo-xing/cookie.md)
       * [附录](javascript/javascript/javascript/fu-lu.md)
     * [ES6](javascript/javascript/es6.md)
+    * [Web API](javascript/javascript/web-api/README.md)
+      * [IntersectionObserver](javascript/javascript/web-api/intersectionobserver.md)
     * [typescript](javascript/javascript/typescript.md)
   * [node](javascript/node.md)
   * [react](javascript/react/README.md)
