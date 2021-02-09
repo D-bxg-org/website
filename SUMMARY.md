@@ -82,6 +82,7 @@
       * [video](javascript/javascript-ku/gong-neng-ku/video.md)
       * [scrollreveal](javascript/javascript-ku/gong-neng-ku/scrollreveal.md)
       * [particles](javascript/javascript-ku/gong-neng-ku/particles.md)
+      * [intro](javascript/javascript-ku/gong-neng-ku/intro.md)
       * [PubSubJS](javascript/javascript-ku/gong-neng-ku/pubsubjs.md)
 * [服务端](fu-wu-duan.md)
 * [XML](xml.md)
