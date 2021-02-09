@@ -42,7 +42,7 @@ video.js有两种初始化方式，一种是在video的html标签之中，一种
 效果  
 
 
-![&#x56FE;&#x7247;&#x63CF;&#x8FF0;](../../.gitbook/assets/3694922997-5cb8552816ca9_articlex.png)
+![&#x56FE;&#x7247;&#x63CF;&#x8FF0;](../../../.gitbook/assets/3694922997-5cb8552816ca9_articlex.png)
 
 #### 1.2、使用js进行初始化 <a id="item-1-2"></a>
 
@@ -134,7 +134,7 @@ var myPlayer = neplayer('my-video', {controlBar:{
 });
 ```
 
-![](../../.gitbook/assets/3752102253-5cb85a71c5716_articlex.png)
+![](../../../.gitbook/assets/3752102253-5cb85a71c5716_articlex.png)
 
 ### 3、video.js样式修改 <a id="item-3"></a>
 
@@ -286,7 +286,7 @@ Video.addLanguage('en', video_en);
 
 控制条的高级自定义，如图中的进度条及时间在上面，播放按钮、上一个视频、下一个视频，设置及音量在下面这种控件该如何实现？
 
-![&#x56FE;&#x7247;&#x63CF;&#x8FF0;](../../.gitbook/assets/3246939790-5cb85d52398d2_articlex.png)
+![&#x56FE;&#x7247;&#x63CF;&#x8FF0;](../../../.gitbook/assets/3246939790-5cb85d52398d2_articlex.png)
 
 **如有知道实现这种高级自定义控制条方式的大神请在评论区留下您的代码**
 
