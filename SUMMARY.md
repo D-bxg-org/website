@@ -72,6 +72,7 @@
     * [jQuery](javascript/javascript-ku/jquery.md)
     * [重点特效库](javascript/javascript-ku/zhong-dian-te-xiao-ku/README.md)
       * [kute](javascript/javascript-ku/zhong-dian-te-xiao-ku/kute.md)
+      * [Gear Generator](javascript/javascript-ku/zhong-dian-te-xiao-ku/gear-generator.md)
       * [vivus](javascript/javascript-ku/zhong-dian-te-xiao-ku/vivus.md)
       * [popmotion](javascript/javascript-ku/zhong-dian-te-xiao-ku/popmotion.md)
       * [GASP](javascript/javascript-ku/zhong-dian-te-xiao-ku/gasp.md)
