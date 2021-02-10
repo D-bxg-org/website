@@ -70,6 +70,7 @@
   * [vue](javascript/vue.md)
   * [JavaScript库](javascript/javascript-ku/README.md)
     * [jQuery](javascript/javascript-ku/jquery.md)
+    * [canvas](javascript/javascript-ku/canvas.md)
     * [重点特效库](javascript/javascript-ku/zhong-dian-te-xiao-ku/README.md)
       * [kute](javascript/javascript-ku/zhong-dian-te-xiao-ku/kute.md)
       * [Gear Generator](javascript/javascript-ku/zhong-dian-te-xiao-ku/gear-generator.md)
