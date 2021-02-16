@@ -7,8 +7,15 @@ description: 懒加载
 配合路由使用，来达到请求时才加载的作用。
 
 ```javascript
-<Suspense fallback={}>
-    <Route></Route>
+const Home = lazy(()=>import('./Home'))
+
+<Suspense fallback={<Loding></Loding>}>
+    <Switch>
+        <Route></Route>
+        <Redirect to="/login" />
+    </Switch>
 </Suspense>
 ```
+
+
 
