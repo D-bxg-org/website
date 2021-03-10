@@ -102,3 +102,11 @@
 * [前端特效](qian-duan-te-xiao/README.md)
   * [AE & front-end](qian-duan-te-xiao/ae-and-front-end.md)
 
+## 软件测试
+
+* [参考文章](ruan-jian-ce-shi/can-kao-wen-zhang.md)
+
+## 软件管理
+
+* [Untitled](ruan-jian-guan-li/untitled.md)
+
