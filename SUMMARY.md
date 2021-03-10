@@ -21,6 +21,7 @@
       * [数据类型](javascript/javascript/javascript/shu-ju-lei-xing/README.md)
         * [对象](javascript/javascript/javascript/shu-ju-lei-xing/dui-xiang.md)
         * [函数](javascript/javascript/javascript/shu-ju-lei-xing/han-shu.md)
+      * [运算符 & 表达式](javascript/javascript/javascript/yun-suan-fu-biao-da-shi.md)
       * [标准库](javascript/javascript/javascript/biao-zhun-ku/README.md)
         * [Object对象](javascript/javascript/javascript/biao-zhun-ku/object-dui-xiang.md)
         * [包装对象](javascript/javascript/javascript/biao-zhun-ku/bao-zhuang-dui-xiang/README.md)
