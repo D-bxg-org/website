@@ -59,6 +59,8 @@
         * [state](javascript/react/react-se/zu-jian-de-san-da-shu-xing/state.md)
         * [props](javascript/react/react-se/zu-jian-de-san-da-shu-xing/props.md)
         * [ref](javascript/react/react-se/zu-jian-de-san-da-shu-xing/ref.md)
+      * [组件其他的一些属性](javascript/react/react-se/zu-jian-qi-ta-de-yi-xie-shu-xing.md)
+      * [事件处理](javascript/react/react-se/shi-jian-chu-li.md)
       * [生命周期](javascript/react/react-se/sheng-ming-zhou-qi/README.md)
         * [Untitled](javascript/react/react-se/sheng-ming-zhou-qi/untitled.md)
       * [extends](javascript/react/react-se/extends/README.md)
