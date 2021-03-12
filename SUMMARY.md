@@ -18,6 +18,8 @@
 * [JavaScript](javascript/README.md)
   * [JavaScript](javascript/javascript/README.md)
     * [JavaScript](javascript/javascript/javascript/README.md)
+      * [入门篇](javascript/javascript/javascript/ru-men-pian/README.md)
+        * [基本语法](javascript/javascript/javascript/ru-men-pian/ji-ben-yu-fa.md)
       * [数据类型](javascript/javascript/javascript/shu-ju-lei-xing/README.md)
         * [对象](javascript/javascript/javascript/shu-ju-lei-xing/dui-xiang.md)
         * [函数](javascript/javascript/javascript/shu-ju-lei-xing/han-shu.md)
