@@ -64,7 +64,7 @@
       * [组件其他的一些属性](javascript/react/react-se/zu-jian-qi-ta-de-yi-xie-shu-xing.md)
       * [事件处理](javascript/react/react-se/shi-jian-chu-li.md)
       * [生命周期](javascript/react/react-se/sheng-ming-zhou-qi/README.md)
-        * [Untitled](javascript/react/react-se/sheng-ming-zhou-qi/untitled.md)
+        * [生命周期（旧）](javascript/react/react-se/sheng-ming-zhou-qi/untitled.md)
       * [extends](javascript/react/react-se/extends/README.md)
         * [lazyLoad](javascript/react/react-se/extends/lazyload.md)
         * [renderProps](javascript/react/react-se/extends/renderprops.md)

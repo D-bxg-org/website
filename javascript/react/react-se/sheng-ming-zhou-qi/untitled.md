@@ -1,11 +1,6 @@
-# Untitled
+# 生命周期（旧）
 
-一个组件通常有以下几个状态：
+![](../../../../.gitbook/assets/react-jiu-sheng-ming-zhou-qi-.png)
 
-* 是否第一次打开：isFirst
-* 加载中：loding
-* 出错：error
-* 。。。
-
-也就是生命周期函数中的那些函数。
+![](../../../../.gitbook/assets/react-xin-sheng-ming-zhou-qi-.png)
 
