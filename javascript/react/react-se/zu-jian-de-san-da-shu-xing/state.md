@@ -14,6 +14,31 @@
 
 也就是生命周期函数中的那些函数。
 
+## 类组件
+
+```javascript
+import React from 'react';
+
+class Example{
+    constructor(props) {
+        super(props);
+        this.state = {data:0};
+    }
+    func = ()=>{
+        this.setState({data:1});
+    }
+    render(){
+        const {data} = this.state;
+        return(
+            <div>
+                <div>{data}</div>
+                <button onClick = {this.func}>button</button>
+            </div>
+        )
+    }
+}
+```
+
 ## 函数组件state hooks
 
 ```jsx
@@ -33,4 +58,3 @@ function Example() {
   );
 }
 ```
-

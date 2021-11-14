@@ -6,6 +6,51 @@
 yarn add prop-types
 ```
 
+## 类组件
+
+```javascript
+// Parent.jsx
+import React from 'react';
+import Son from 'Son';
+
+class Parent{
+    constructor(props) {
+        super(props);
+        this.state = {
+            num:1,
+            sex:"男"
+        }
+    }
+    render(){
+        const p = this.state;
+        return(
+            <div>
+                <Son {...p}></Son>
+            </div>
+        )
+    }
+}
+```
+
+```javascript
+// Son.jsx
+import React from 'react';
+
+export default class Son{
+    constructor(props) {
+        super(props);
+    }
+    render(){
+        const {num,sex} = this.props;
+        return(
+            <div>
+                <div>{num},{sex}</div>
+            </div>
+        )
+    }
+}
+```
+
 ## 函数组件
 
 ```jsx
@@ -28,22 +73,3 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
-
-## class组件使用
-
-```javascript
-<A name='aaaaaaaa'></A>
-
-class A extends component{
- PropTypes{
-  name:PropTypes.string
- }
- render(){
-  const {name,age,sex}=this.props
-  return(
-   <></>
-  )
- }
-}
-```
-
